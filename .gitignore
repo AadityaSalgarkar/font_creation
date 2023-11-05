@@ -1,0 +1,5 @@
+*.ttf
+backups
+.ipynb_checkpoints
+dataset
+weights
