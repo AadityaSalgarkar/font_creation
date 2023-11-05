@@ -30,3 +30,8 @@ Generated fonts at the end of 6000th epoch are shown in the notebook.
 
 ![image](images/gloss.png)
 ![image](images/dloss.png)
+
+## Interesting runs
+
+An interesting run where G loss went to 0:
+[link](https://wandb.ai/aadis-learning/font_creation/reports/iconic-eon-2--Vmlldzo1ODc4MTM2?accessToken=d37pbr1ct8omrjxa3ydai5srugdcqg3ep67xr68dsvmy2re0473je00g5vggwbq4)
