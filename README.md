@@ -1,4 +1,7 @@
 # Font creation using 2d GAN
+* [kaggle](https://www.kaggle.com/code/faruanacabiano007/generative-adversarial-network)
+* [wandb](https://wandb.ai/aadis-learning/font_creation?workspace=user-aadis-learning)
+
 * [Colab](https://colab.research.google.com/drive/18jb0fVEMcdCxiET8rnFi40p3W7PJVz-5?usp=sharing)
 * [nbviewer](https://nbviewer.org/github/AadityaSalgarkar/font_creation/blob/main/main.ipynb#)
 
